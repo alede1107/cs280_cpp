@@ -1,0 +1,11 @@
+16: Unrecognized Input Pattern.
+(Invalid character for starting a token "$")
+16: Missing Expression in Assignment Statement.
+16: Incorrect Simple Statement.
+16: Missing Statement for If-Then-Part.
+16: Incorrect Structured Statement.
+16: Syntactic error in the statement.
+16: Incorrect Program Body.
+16: Incorrect Program Body.
+Unsuccessful Parsing
+Number of Syntax Errors 8
